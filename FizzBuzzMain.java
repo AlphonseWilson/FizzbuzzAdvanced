@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class FizzBuzzMain {
 
 	public static void main(String[] args) {
-		int min = 2;
+		int min = 10;
 		int max = 100;
 		int Numbers[]  = {7, 11, 20, 50};
-		String Terms[]  = {"seven ", "eleven ", "twenty ", "fifty"};
+		String Terms[]  = {"doe ", "rey ", "mi ", "fa"};
 		
 		
 		
